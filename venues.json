@@ -1,0 +1,51 @@
+[
+    {
+           "name": "Ravine Winery",
+            "id": 1,
+            "image": "https://scontent-yyz1-1.xx.fbcdn.net/v/t31.18172-8/16707508_1266626036752304_1464450875038987991_o.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=8891m-gWZM4AX-RToAP&_nc_ht=scontent-yyz1-1.xx&oh=00_AT87Z6BFCVaycbgNCh4zGVo32odINQVokEGAja19fIw2Wg&oe=6289E897",
+            "address": "1366 York Rd, St. Davids, ON L0S 1P0",
+            "description": "Family-owned farm since the 1860s now operating as a winery with a tasting bar & weekend tours.",
+            "category": "Wine",
+            "needsReso": true
+    },
+    {
+           "name": "Oast House Brewers",
+            "id": 2,
+            "image": "https://oasthousebrewers.com/wp-content/uploads/2016/05/IMG_0006-2.jpeg",
+            "address": "2017 Niagara Stone Rd, Niagara-on-the-Lake, ON L0S 1J0",
+            "description": "Farmhouse-focused brewery offering tasting Room, tours, food, outdoor patio & events space.",
+            "category": "Beer",
+            "needsReso": false
+    },
+    {
+           "name": "Two Sisters Vineyards",
+            "id": 3,
+            "image": "https://yt3.ggpht.com/ytc/AKedOLRAcmBpx8eNhA4Z3P-5S636Q3-DNSu5DSz3G9lW=s900-c-k-c0x00ffffff-no-rj",
+            "address": "240 John St E, Niagara-on-the-Lake, ON L0S 1J0",
+            "description": "Luxurious winery eatery for intricate Italian cuisine, with stately decor & a patio with views.",
+            "category": "Wine",
+            "needsReso": true
+    },
+    {
+           "name": "Trius Winery",
+            "id": 4,
+            "image": "https://sparklingwinos.com/wp-content/uploads/2017/06/IMG_3948.jpg",
+            "address": "1249 Niagara Stone Rd, Niagara-on-the-Lake, ON L0S 1J0",
+            "description": "Red & white ice wines are both produced at this winery hosting tours & tastings.",
+            "category": "Wine",
+            "needsReso": true
+    },
+    {
+           "name": "Château des Charmes",
+            "id": 5,
+            "image": "https://i0.wp.com/www.chateaudescharmes.com/wp-content/uploads/2019/03/RachelGord-636-ChadMunro.jpg?fit=3639%2C2729&ssl=1",
+            "address": "1366 York Rd, St. Davids, ON L0S 1P0",
+            "description": "Sprawling vineyards in picturesque, verdant surrounds offering tours, tastings & light fare.",
+            "category": "Wine",
+            "needsReso": true
+    }
+
+ 
+]
+
+
